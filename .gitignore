@@ -2,3 +2,6 @@
 *.rar
 *.keras
 *.h5
+*.zip
+/train2014
+/annotations_trainval2014
